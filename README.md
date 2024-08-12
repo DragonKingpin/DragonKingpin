@@ -22,7 +22,7 @@ root@junred:~# DragonKing
 
 - [ HOME ] https://www.dragonking.me | https://www.rednest.cn | https://undefined.red.
 - [ INFO ] Interesting on Big Data and Cloud (Specific on Micro-Service and Cluster Architecture, IaaS/PaaS).
-- [TRACE ] AI and Cloud (Master studying)，interesting on sequential data processing，Decoder-Encoder (Transformer on regression).
+- [TRACE ] AI and Cloud (During Master)，interesting on sequential data processing，Decoder-Encoder (Transformer on regression).
 - [ WORK ] Currently working on bigdata middle platform technology (数据中台技术).
 
 root@junred:~# ls-Skills
