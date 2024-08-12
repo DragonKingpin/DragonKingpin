@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+root@junred:~# DragonKing
+
+<p stlyle="color:red"><strong>Dragon King</strong></p>
+<p>Title. Dragon Wizard and Summoner</p>
+
+- [ HOME ] https://www.dragonking.me | https://www.rednest.cn | https://undefined.red.
+- [ INFO ] Interesting on Big Data and Cloud (Specific on Micro-Service and Cluster Architecture, IaaS/PaaS).
+- [TRACE ] AI and Cloud (Master studying)，interesting on sequential data processing，Decoder-Encoder (Transformer on regression).
+- [ WORK ] Currently working on bigdata middle platform technology (数据中台技术).
+
+root@junred:~# ls-Skills
+
+- [ BASE ] C/C++/ASM: 90%  ;  Java/JS: 80%  ;  Go/PHP: 70%  ;  Python: 60%  ; 
+- [ BACK ] C/C++^.\*; Springs/Hadoop/Hive/OSS^.\*; Gin/PHP^.\*; TensorFlow/Torch; STM32/x86;
+- [ FRON ] HTML/CSS; Bootstrap; JQuery; React; Vue; Angular;
+- [ SUPE ] Cloud; Big Data; Data Warehouse; Cluster; Micro-Service; etc.
+- [MAGIC ] Basic PCB Design; PhotoShop; Premiere; Au; GoldWave; etc.
