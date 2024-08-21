@@ -28,7 +28,7 @@ root@junred:~# DragonKing
 root@junred:~# ls-Skills
 
 - [ BASE ] C/C++/ASM: 90%  ;  Java/JS: 80%  ;  Go/PHP: 70%  ;  Python: 60%  ; 
-- [ BACK ] C/C++^.\*; Springs/Hadoop/Hive/OSS^.\*; Gin/PHP^.\*; TensorFlow/Torch; STM32/x86;
+- [ BACK ] C/C++^.*; Springs/Hadoop/Hive/etc.^.*; Gin/PHP^.*; TensorFlow/Torch; STM32/x86;
 - [ FRON ] HTML/CSS; Bootstrap; JQuery; React; Vue; Angular;
-- [ SUPE ] Cloud; Big Data; Data Warehouse; Cluster; Micro-Service; etc.
+- [ SUPE ] Cloud; Big Data; Data Warehouse; Cluster; Micro-Service; Sequence and feature expression; etc.
 - [MAGIC ] Basic PCB Design; PhotoShop; Premiere; Au; GoldWave; etc.
