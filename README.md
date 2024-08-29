@@ -20,7 +20,7 @@ root@junred:~# DragonKing
 <p stlyle="color:red"><strong>Dragon King</strong></p>
 <p>Title. Dragon Wizard and Summoner</p>
 
-- [ HOME ] https://www.dragonking.cn | https://www.rednest.cn | https://undefined.red | https://www.dragonkingpin.com.
+- [ HOME ] https://www.dragonking.cn | https://undefined.red | https://www.dragonkingpin.com.
 - [ INFO ] Interesting on Big Data and Cloud (Specific on Micro-Service and Cluster Architecture, IaaS/PaaS).
 - [TRACE ] AI and Cloud (During Master)，interesting on sequential data processing，Decoder-Encoder (Transformer on regression).
 - [ WORK ] Currently working on bigdata middle platform technology (数据中台技术).
