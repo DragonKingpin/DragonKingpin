@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 root@junred:~# DragonKing
 
 <p stlyle="color:red"><strong>Dragon King</strong></p>
-<p>Title. Dragon Wizard and Summoner</p>
 
 - [ HOME ] https://www.dragonking.cn | https://undefined.red | https://www.dragonkingpin.com.
 - [ INFO ] Interesting on Big Data and Cloud (Specific on Micro-Service and Cluster Architecture, IaaS/PaaS).
