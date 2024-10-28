@@ -22,12 +22,12 @@ root@junred:~# DragonKing
 - [ HOME ] https://www.dragonking.cn | https://undefined.red | https://www.dragonkingpin.com.
 - [ INFO ] Interesting on Big Data and Cloud (Specific on Micro-Service and Cluster Architecture, IaaS/PaaS).
 - [TRACE ] AI and Cloud (During Master)，interesting on sequential data processing，Decoder-Encoder (Transformer on regression).
-- [ WORK ] Currently working on bigdata middle platform technology (数据中台技术).
+- [ WORK ] Currently working on bigdata platform technology (数据中台).
 
 root@junred:~# ls-Skills
 
 - [ BASE ] C/C++/ASM: 90%  ;  Java/JS: 80%  ;  Go/PHP: 70%  ;  Python: 60%  ; 
-- [ BACK ] C/C++^.*; Springs/Hadoop/Hive/etc.^.*; Gin/PHP^.*; TensorFlow/Torch; STM32/x86;
+- [ BACK ] C/C++^.*; Springs/Hadoop/Hive/Spark/Starrocks/etc.^.*; Gin/PHP^.*; TensorFlow/Torch; STM32/x86;
 - [ FRON ] HTML/CSS; Bootstrap; JQuery; React; Vue; Angular;
 - [ SUPE ] Cloud; Big Data; Data Warehouse; Cluster; Micro-Service; Sequence and feature expression; etc.
 - [MAGIC ] Basic PCB Design; PhotoShop; Premiere; Au; GoldWave; etc.
