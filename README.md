@@ -23,6 +23,7 @@ root@junred:~# DragonKing
 - [ INFO ] Research Interests: Large-scale data multi-feature mining, processing, and application (practical). Focus on Cloud Computing, multi-feature modeling, and time series models.
 - [TRACE ] Optimization and data governance in big data infrastructure, full-stack development, cloud-native technologies, and performance modeling and analysis.
 - [ WORK ] Currently working on bigdata platform technology (数据中台).
+- [ SELF ] Personal Interests: Large-scale control architectures（大规模控制调度架构）, large-scale quantitative trading and systematic portfolio（量化交易与投资组合）, intelligence and data-driven decision control（数据驱动智能决策）.
 
 root@junred:~# ls-Skills
 
